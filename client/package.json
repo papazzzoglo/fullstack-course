@@ -20,6 +20,7 @@
     "@angular/forms": "~8.2.14",
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
+    "@angular-devkit/build-angular": "^0.803.22",
     "@angular/router": "~8.2.14",
     "chart.js": "^2.9.3",
     "materialize-css": "^1.0.0-rc.2",
@@ -29,7 +30,6 @@
     "typescript": "~3.5.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.803.22",
     "@angular/language-service": "~8.2.14",
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
